@@ -65,3 +65,4 @@ public class TestNGFrameworkRunner extends TestBase {
         closeBrowser();
     }
 }
+
