@@ -1,4 +1,8 @@
 target/
+.idea/
+ScreenShot_Images/
+TestReports/
+test-output/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
