@@ -1,5 +1,6 @@
 @UILoginTest
-Feature: A customer is able to successfully log in with valid credentials
+Feature: UILogin
+  A customer is able to successfully log in with valid credentials
   Description: The purpose of this feature is to test login functionality of shop apotheke UI
 
   @validLoginTest
