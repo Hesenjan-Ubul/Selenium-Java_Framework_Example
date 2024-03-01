@@ -31,7 +31,7 @@ Welcome to the Java Selenium Automation Example Framework! This repository conta
 
 2. **Clone Repository:**
    ```
-   git clone https://github.com/Hesenjan_Ubul/shop-apotheke-example.git
+   git clone https://github.com/Hesenjan-Ubul/Selenium-Java_Framework_Example.git
    ```
 
 3. **Configuration:**
